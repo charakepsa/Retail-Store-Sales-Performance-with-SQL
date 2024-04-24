@@ -1,5 +1,6 @@
 # Retail-Store-Sales-Performance-with-SQL
 Measuring Retail Store Sales Performance with SQL
+(This is a self practice project and the data is taken from medium.com)
 
 Through this Data, the supervisor of Store desires to understand:
 
