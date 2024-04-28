@@ -1,5 +1,5 @@
 # Retail-Store-Sales-Performance-with-SQL
-Measuring Retail Store Sales Performance with SQL
+Measuring Retail Store Sales Performance with SQL and dashboard using Power BI
 
 (This is a self practice project and the data is taken from medium.com by DQLab)
 
